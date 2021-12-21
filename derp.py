@@ -1,1 +1,1 @@
-derp
+print("hello world")
